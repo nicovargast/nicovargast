@@ -11,7 +11,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast&show_icons=true&hide_border=false&theme=dracula" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast&show_icons=true&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 </details>
 
