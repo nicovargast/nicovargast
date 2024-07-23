@@ -15,7 +15,7 @@
 
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast\&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast&show_icons=true&theme=vision-friendly-dark&show=prs_merged,prs_merged_percentage&hide=stars&border_radius=10\&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats-seven-lake-37.vercel.app/api/top-langs/?username=nicovargast&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
