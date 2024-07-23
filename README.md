@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast&show_icons=true&theme=vision-friendly-dark&show=prs_merged,prs_merged_percentage&hide=stars&border_radius=10&bg_color=DEG,000000,650000&include_all_commits=true\&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats-seven-lake-37.vercel.app/api/top-langs/?username=nicovargast&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-lake-37.vercel.app/api/top-langs/?username=nicovargast&layout=donut-vertical&theme=vision-friendly-dark&bg_color=DEG,000000,650000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nicovargast/nicovargast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
