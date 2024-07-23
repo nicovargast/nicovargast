@@ -8,18 +8,10 @@
 
 ⭐ **𝑨𝒄𝒉𝒊𝒆𝒗𝒆 𝒚𝒐𝒖𝒓 𝒅𝒓𝒆𝒂𝒎𝒔, 𝒅𝒐𝒏'𝒕 𝒇𝒊𝒕 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆 𝒄𝒓𝒐𝒘𝒅, 𝒚𝒐𝒖 𝒘𝒆𝒓𝒆 𝒃𝒐𝒓𝒏 𝒕𝒐 𝒔𝒕𝒂𝒏𝒅 𝒐𝒖𝒕.**
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast&show_icons=true&theme=vision-friendly-dark&show=prs_merged,prs_merged_percentage&hide=stars&border_radius=10&bg_color=DEG,000000,ff0000&include_all_commits=true\&rank_icon=github)" />
-
-</details>
-
 ![Anurag's GitHub stats](https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast&show_icons=true&theme=vision-friendly-dark&show=prs_merged,prs_merged_percentage&hide=stars&border_radius=10&bg_color=DEG,000000,650000&include_all_commits=true\&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats-seven-lake-37.vercel.app/api/top-langs/?username=nicovargast&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-lake-37.vercel.app/api/top-langs/?username=nicovargast&layout=donut-vertical0&theme=vision-friendly-dark&bg_color=DEG,000000,650000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-seven-lake-37.vercel.app/api/wakatime?username=nicovargast)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nicovargast/nicovargast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
