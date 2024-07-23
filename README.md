@@ -15,6 +15,8 @@
 
 </details>
 
+![Anurag's GitHub stats](https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast\&rank_icon=github)
+
 [![Top Langs](https://github-readme-stats-seven-lake-37.vercel.app/api/top-langs/?username=nicovargast&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats-seven-lake-37.vercel.app/api/wakatime?username=nicovargast)](https://github.com/anuraghazra/github-readme-stats)
