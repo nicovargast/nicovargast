@@ -8,6 +8,8 @@
 
 ⭐ **𝑨𝒄𝒉𝒊𝒆𝒗𝒆 𝒚𝒐𝒖𝒓 𝒅𝒓𝒆𝒂𝒎𝒔, 𝒅𝒐𝒏'𝒕 𝒇𝒊𝒕 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆 𝒄𝒓𝒐𝒘𝒅, 𝒚𝒐𝒖 𝒘𝒆𝒓𝒆 𝒃𝒐𝒓𝒏 𝒕𝒐 𝒔𝒕𝒂𝒏𝒅 𝒐𝒖𝒕.**
 
+[![Spotify](https://spotify-now-playing-lyart-psi.vercel.app/api/spotify)](https://open.spotify.com/user/zgaumxiw8iqiokzyh3cpc1x7r)
+
 ![Anurag's GitHub stats](https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast&show_icons=true&theme=vision-friendly-dark&show=prs_merged,prs_merged_percentage&hide=stars&border_radius=10&bg_color=DEG,000000,650000&include_all_commits=true\&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats-seven-lake-37.vercel.app/api/top-langs/?username=nicovargast&layout=donut-vertical&theme=vision-friendly-dark&bg_color=DEG,000000,650000)](https://github.com/anuraghazra/github-readme-stats)
