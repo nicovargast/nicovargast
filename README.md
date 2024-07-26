@@ -11,6 +11,8 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zgaumxiw8iqiokzyh3cpc1x7r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=zgaumxiw8iqiokzyh3cpc1x7r&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=zgaumxiw8iqiokzyh3cpc1x7r&cover_image=true&theme=novatorem&show_offline=true&background_color=4e1313&interchange=true&bar_color=059900&bar_color_cover=false)]]
+
 ![Anurag's GitHub stats](https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast&show_icons=true&theme=vision-friendly-dark&show=prs_merged,prs_merged_percentage&hide=stars&border_radius=10&bg_color=DEG,000000,650000&include_all_commits=true\&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats-seven-lake-37.vercel.app/api/top-langs/?username=nicovargast&layout=donut-vertical&theme=vision-friendly-dark&bg_color=DEG,000000,650000)](https://github.com/anuraghazra/github-readme-stats)
