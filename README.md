@@ -9,7 +9,7 @@
 ⭐ **𝑨𝒄𝒉𝒊𝒆𝒗𝒆 𝒚𝒐𝒖𝒓 𝒅𝒓𝒆𝒂𝒎𝒔, 𝒅𝒐𝒏'𝒕 𝒇𝒊𝒕 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆 𝒄𝒓𝒐𝒘𝒅, 𝒚𝒐𝒖 𝒘𝒆𝒓𝒆 𝒃𝒐𝒓𝒏 𝒕𝒐 𝒔𝒕𝒂𝒏𝒅 𝒐𝒖𝒕.**
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zgaumxiw8iqiokzyh3cpc1x7r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zgaumxiw8iqiokzyh3cpc1x7r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/zgaumxiw8iqiokzyh3cpc1x7r)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=zgaumxiw8iqiokzyh3cpc1x7r&cover_image=true&theme=novatorem&show_offline=true&background_color=4e1313&interchange=true&bar_color=059900&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
