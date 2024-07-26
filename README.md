@@ -10,8 +10,6 @@
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zgaumxiw8iqiokzyh3cpc1x7r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-[<img src="https://spotify-now-playing-4p594d8q0-nicolas-vargas-projects.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/zgaumxiw8iqiokzyh3cpc1x7r)
-[![Spotify](https://spotify-now-playing-4p594d8q0-nicolas-vargas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/zgaumxiw8iqiokzyh3cpc1x7r)
 
 ![Anurag's GitHub stats](https://github-readme-stats-seven-lake-37.vercel.app/api?username=nicovargast&show_icons=true&theme=vision-friendly-dark&show=prs_merged,prs_merged_percentage&hide=stars&border_radius=10&bg_color=DEG,000000,650000&include_all_commits=true\&rank_icon=github)
 
